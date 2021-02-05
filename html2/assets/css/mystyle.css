@@ -1,0 +1,16 @@
+h1.white {
+    color: white
+    
+}
+
+h1.header_title {
+    position:;
+    top: 500px;
+    left: 150px;
+    
+}
+
+/* Header Image with Text */
+.banner{position:relative}
+.banner img{width:100%}
+.banner .container{position: absolute; left:0; right:0; top:50%; text-align:left; transform:translateY(-50%)}
